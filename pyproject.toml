@@ -1,0 +1,17 @@
+[project]
+name = "kuchenraum"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bokeh>=3.7.3",
+    "iprogress>=0.4",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
+    "networkx>=3.5",
+    "pandas>=2.3.0",
+    "requests>=2.32.4",
+    "seaborn>=0.13.2",
+    "umap-learn>=0.5.7",
+]
